@@ -6,6 +6,7 @@ Weather forecasting has become a very important application these days. It can h
 
 
 GOALS
+
 ● Exploratory Data Analysis of the Weather attributes like Temperature and Precipitation for some of the cities in California
 ● Applying a Machine Learning Model and training the model using our Test Data from the above Dataset.
 ● Validating the Model and then checking the accuracy of the results.
