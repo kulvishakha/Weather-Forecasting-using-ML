@@ -14,9 +14,8 @@ GOALS:
 ![image](https://user-images.githubusercontent.com/86750299/230691688-7ce500c4-edc8-4d73-bd19-fd47e15a4823.png)
 
 
-
 TOOLS to be Used:
-We plan to use Python Programming with the various built in Libraries to study the dataset obtained from ‘National Centers for Environmental information’ and select and train the model.
+We used Python Programming with the various built in Libraries to study the dataset obtained from ‘National Centers for Environmental information’ and select and train the model.
 
 ![image](https://user-images.githubusercontent.com/86750299/230691725-d7a0a6ba-288f-42b9-9129-07aab87784bb.png)
 
